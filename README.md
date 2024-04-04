@@ -8,3 +8,8 @@ MS Learn Learning Path for GitHub Foundation Certification
 - Module 2
 - Module 3
 - Module 4
+
+
+Other useful resources:
+- [Git Docs](https://docs.github.com/en/get-started)
+- [Learn Git Branching](https://learngitbranching.js.org/)
