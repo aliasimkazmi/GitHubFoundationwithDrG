@@ -1,0 +1,1 @@
+Added a directory Junk and added a file named trash to it.
