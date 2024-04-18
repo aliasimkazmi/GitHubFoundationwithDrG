@@ -1,3 +1,7 @@
 Added a directory Junk and added a file named trash to it.
 
 Well let's see how the preview shows up for this.
+
+Let's check other contributors. There are no alternative email addresses listed for the current GitHub ID.
+
+Let's commit from a new branch.
